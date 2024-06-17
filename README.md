@@ -1,4 +1,4 @@
-# Next Auth V5 - Advanced Guide (2024)
+# Next Auth V5
 
 This project provides an advanced implementation for Next Auth V5, covering comprehensive features and best practices for integrating authentication in Next.js applications.
 
